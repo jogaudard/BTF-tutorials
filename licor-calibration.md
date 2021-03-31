@@ -5,7 +5,7 @@ March 20, 2021
 
 ## Introduction
 
-Please refer to page 3-25 of the Li-840A manual for the exact precedure to calibrate the licor. This tutorial aims at providing additionnal information specific to the two licors belonging to the Between The Fjord group.
+Please refer to page 3-25 of the Li-840A manual for the exact precedure to calibrate the licor. This tutorial aims at providing additionnal information specific to the two licors belonging to the Between The Fjords group.
 
 In short, you will need to run the licor with a gaz containing zero CO<sub>2</sub> and telling it, do the same with a gaz with a known CO<sub>2</sub> concentration (span gas), and check the constants.
 
@@ -38,7 +38,7 @@ Then in the softwar:
 
 The span gas we use is CO<sub>2</sub> at 998ppm. The bottle is located in lab 4D12. The procedure is the same as for the zero gas, some extra steps are described in the figure below. The bottle is under pressure, do not open the valve fully and make sure to check the flux meter. Do not connect the Li-840A before making sure that the flux is at 1 L/mn. In the software, the calibration is done under "span gas".
 
-![spangas](co2.png)
+![spangas](co2.jpg)
 <figcaption>
 This is how it should look once mounted. Make sure it is tight before opening the bottle. Open and close the valves in this order.
 </figcaption>
